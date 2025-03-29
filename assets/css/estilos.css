@@ -1,5 +1,5 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 /* Hero Section */
@@ -39,6 +39,7 @@ body {
 }
 
 .navbar p {
+  font-size: 5vw;
   font-weight: bolder;
 }
 
