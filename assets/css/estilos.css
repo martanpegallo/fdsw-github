@@ -37,3 +37,11 @@ body {
   }
 
 }
+
+.navbar p {
+  font-weight: bolder;
+}
+
+i {
+  font-size: 60px;
+}
